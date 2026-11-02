@@ -1,0 +1,22 @@
+# ROS 2 build files
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Editor files
+.vscode/
+.idea/
+
+# Large video recordings
+*.mp4
+*.mkv
+*.webm

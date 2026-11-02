@@ -1,0 +1,35 @@
+rooms:
+  room_1:
+    name: "Room 1"
+    frame_id: "map"
+    x: 3.639906406402588
+    y: 1.4378347396850586
+    yaw: 0.0
+
+  room_2:
+    name: "Room 2"
+    frame_id: "map"
+    x: 7.784204959869385
+    y: -0.4743254482746124
+    yaw: 0.0
+
+  room_3:
+    name: "Room 3"
+    frame_id: "map"
+    x: 8.909871101379395
+    y: -5.443336009979248
+    yaw: 0.0
+
+  room_4:
+    name: "Room 4"
+    frame_id: "map"
+    x: -4.0013861656188965
+    y: -2.8841381072998047
+    yaw: 0.0
+
+  living_room:
+    name: "Living Room"
+    frame_id: "map"
+    x: -0.06142978370189667
+    y: 2.593621253967285
+    yaw: 0.0
