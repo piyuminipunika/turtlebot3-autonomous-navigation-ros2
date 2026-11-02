@@ -40,8 +40,7 @@ in a simulated house environment.
 
 ## Start Navigation System
 
-```bash
-~/autonomous_robot/scripts/start_robot.sh
+
 
 ##Frontier Exploration
 
